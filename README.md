@@ -29,7 +29,7 @@ This project focuses on utilizing cutting-edge technologies, including pre-train
 In order to visualize the frontend part of this project properly you need react installed.<br>
 First of all please clone the repository:<br>
 
-        git clone https://github.com/Madelainepereira/soundofsilence.git 
+        git clone https://github.com/Anais-RV/SOS_Front.git 
 Also is needed to install vite:
 
         npm create vite@latest .
@@ -51,7 +51,7 @@ You will see the build errors and lint warnings in the console.<br>
 In order to visualize the backend part of this project properly you need Python and FastAPI installed.<br>
 First of all please clone the repository:
 
-        git clone https://github.com/Anais-RV/SoundofSilence_Back.git
+        git clone https://github.com/Anais-RV/SOS_Back.git
 
 Run the following command to create the virtual enviroment:
 
